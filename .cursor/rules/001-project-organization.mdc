@@ -1,4 +1,8 @@
-
+---
+description: Docs
+globs: **/*
+alwaysApply: true
+---
 # Project Documentation Guidelines
 
 ## Notes File
